@@ -1,7 +1,7 @@
 #Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Rust-Figlet < Formula
+class RustFiglet < Formula
   desc "Cross-platform Figlet Text Displayer Constructed Using Rust"
   homepage "https://github.com/shruthikmusukula/rust_figlet"
   url "https://github.com/shruthikmusukula/rust_figlet/releases/download/v0.1.0/rust-figlet.tar.gz"
