@@ -9,6 +9,6 @@ class RustFiglet < Formula
   version "0.1.0"
 
   def install
-    bin.install "fig"
+    bin.install "rust-figlet"
   end
 end
